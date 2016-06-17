@@ -1,0 +1,30 @@
+.list-group-item>.icon{
+    float: none;
+    margin-right: 10px;
+}
+
+.mytext{
+    margin-left: 50px;
+
+}
+
+.mt8{
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+
+.navbar-default .navbar-toggle {
+     border-color: transparent;
+}
+
+.navbar-default .navbar-toggle:focus,.navbar-default .navbar-toggle:hover{
+    background-color: transparent;
+}
+
+.input-group {
+    width: 82%;
+    position: relative;
+    display: table;
+    border-collapse: separate;
+    margin: 5px auto 21px;
+}
